@@ -1,4 +1,4 @@
-cat > README.md <<'EOF'
+
 # AWS CloudWatch Log Monitoring and Alerting Project
 
 ## Project Overview
@@ -179,4 +179,4 @@ I generated fresh ERROR logs after creating the metric filter and alarm. After m
 - Creating CloudWatch alarms
 - Sending alerts using SNS
 - Troubleshooting CloudWatch monitoring issues
-EOF
+
